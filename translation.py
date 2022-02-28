@@ -1,12 +1,12 @@
 class Translation(object):
-    START_TEXT = """𝙷𝚊𝚒 '{}' 𝚊𝚖 𝙵𝙲 𝚄𝚁𝙻 𝚄𝚙𝚕𝚘𝚊𝚍𝚎𝚛 𝚋𝚘𝚝..
+    START_TEXT = """𝙷𝚊𝚒<a href='tg://user?id={}'>{}</a> 𝚊𝚖 𝙵𝙲 𝚄𝚁𝙻 𝚄𝚙𝚕𝚘𝚊𝚍𝚎𝚛 𝚋𝚘𝚝..
 
 <b>𝙿𝚕𝚎𝚊𝚜𝚎 𝚜𝚎𝚗𝚍 𝚖𝚎 𝚊𝚗𝚢 𝚍𝚒𝚛𝚎𝚌𝚝 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚄𝚁𝙻 𝙻𝚒𝚗𝚔, 𝚒 𝚌𝚊𝚗 𝚞𝚙𝚕𝚘𝚊𝚍 𝚝𝚘 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚊𝚜 𝙵𝚒𝚕𝚎/𝚅𝚒𝚍𝚎𝚘</b>
 
 /help 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎  𝚍𝚎𝚝𝚊𝚒𝚕𝚜..
 
 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 : ©@moviebus2 ©@OpusTechz
-@Aadhi000 & @albintko"""
+@@Aadhi011 & @albintko"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
