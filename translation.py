@@ -1,13 +1,12 @@
 class Translation(object):
-    START_TEXT = """Hello,<a href='tg://user?id={}'>{}</a>
-Am FC Telegram URL Uploader Bot!
+    START_TEXT = """𝙷𝚊𝚒 '{}' 𝚊𝚖 𝙵𝙲 𝚄𝚁𝙻 𝚄𝚙𝚕𝚘𝚊𝚍𝚎𝚛 𝚋𝚘𝚝..
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+<b>𝙿𝚕𝚎𝚊𝚜𝚎 𝚜𝚎𝚗𝚍 𝚖𝚎 𝚊𝚗𝚢 𝚍𝚒𝚛𝚎𝚌𝚝 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚄𝚁𝙻 𝙻𝚒𝚗𝚔, 𝚒 𝚌𝚊𝚗 𝚞𝚙𝚕𝚘𝚊𝚍 𝚝𝚘 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚊𝚜 𝙵𝚒𝚕𝚎/𝚅𝚒𝚍𝚎𝚘</b>
 
-/help for more  details.
+/help 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎  𝚍𝚎𝚝𝚊𝚒𝚕𝚜..
 
-Support Group : @moviebus2
-© @SpEcHlDe ,<a@Aadhi000 & @albintko</a>"""
+𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 : ©@moviebus2 ©@OpusTechz
+@Aadhi000 & @albintko"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -36,7 +35,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hai am FC URL Uploader bot..
+    HELP_USER = """𝙷𝚊𝚒 𝚊𝚖 𝙵𝙲 𝚄𝚁𝙻 𝚄𝚙𝚕𝚘𝚊𝚍𝚎𝚛 𝚋𝚘𝚝....
     
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -46,13 +45,13 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot : <a href='https://telegram.dog/albintko'>@support</a>
+<b>👉 𝙲𝚛𝚎𝚊𝚝𝚎 𝚘𝚠𝚗 𝙲𝚕𝚘𝚗𝚎 𝙱𝚘𝚝 : <a href='https://telegram.dog/albintko'>@support</a>
 
 --------
-Send /me to know current plan details
+𝚂𝚎𝚗𝚍 /𝚖𝚎 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚌𝚞𝚛𝚛𝚎𝚗𝚝 𝚙𝚕𝚊𝚗 𝚍𝚎𝚝𝚊𝚒𝚕𝚜
 
-Support Group : @moviebus2
-© @albintko"""
+𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 : @moviebus2
+©@OpusTechz"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
@@ -72,7 +71,7 @@ Support Group : @moviebus2
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/OpusTechz'>@OpusTechz</a>"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = "Process Cancelled"
