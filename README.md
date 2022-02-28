@@ -1,13 +1,7 @@
 ## URL Uploader Bot
 ---
 
-An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
-
-**My Features**:
-
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
-
-👉 Upload as file from any HTTP link
+An Open Source ALL-In-One Telegram RoBot, that can do lot of things
 
 ### Installation
 
@@ -15,7 +9,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-URL-Uploader/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Samantha-a/ofcal-ur-lbot/tree/master)
 
 **Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
 
@@ -31,16 +25,11 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [Bots Updates](https://telegram.dog/moviebus2)
+* [Paid files](https://telegram.dog/Aadhi000)
+* [Group](https://telegram.dog/moviebus2)
 
 ## Credits, and Thanks to
-
-* [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-
 - For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/InFoTelGroup)
 
 #### LICENSE
