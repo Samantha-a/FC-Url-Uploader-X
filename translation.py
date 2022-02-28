@@ -5,8 +5,8 @@ class Translation(object):
 
 /help 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎  𝚍𝚎𝚝𝚊𝚒𝚕𝚜..
 
-𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 : ©@moviebus2 ©@OpusTechz
-@@Aadhi011 & @albintko"""
+𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 : ©@moviebus2©@OpusTechz
+©@Aadhi011 & ©@albintko"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -45,12 +45,12 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 𝙲𝚛𝚎𝚊𝚝𝚎 𝚘𝚠𝚗 𝙲𝚕𝚘𝚗𝚎 𝙱𝚘𝚝 : <a href='https://telegram.dog/albintko'>@support</a>
+<b>👉 𝙲𝚛𝚎𝚊𝚝𝚎 𝚘𝚠𝚗 𝙲𝚕𝚘𝚗𝚎 𝙱𝚘𝚝 : <a href='https://telegram.dog/albintko'>©@support</a>
 
 --------
 𝚂𝚎𝚗𝚍 /𝚖𝚎 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚌𝚞𝚛𝚛𝚎𝚗𝚝 𝚙𝚕𝚊𝚗 𝚍𝚎𝚝𝚊𝚒𝚕𝚜
 
-𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 : @moviebus2
+𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 : ©@moviebus2
 ©@OpusTechz"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
