@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """𝙷𝚊𝚒<a {message.from_user.mention}</a> 𝚊𝚖 𝙵𝙲 𝚄𝚁𝙻 𝚄𝚙𝚕𝚘𝚊𝚍𝚎𝚛 𝚋𝚘𝚝..
+    START_TEXT = """𝙷𝚊𝚒 <a href='tg://message.from_user.mention={}'>{}</a> 𝚊𝚖 𝙵𝙲 𝚄𝚁𝙻 𝚄𝚙𝚕𝚘𝚊𝚍𝚎𝚛 𝚋𝚘𝚝..
 
 <b>𝙿𝚕𝚎𝚊𝚜𝚎 𝚜𝚎𝚗𝚍 𝚖𝚎 𝚊𝚗𝚢 𝚍𝚒𝚛𝚎𝚌𝚝 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚄𝚁𝙻 𝙻𝚒𝚗𝚔, 𝚒 𝚌𝚊𝚗 𝚞𝚙𝚕𝚘𝚊𝚍 𝚝𝚘 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚊𝚜 𝙵𝚒𝚕𝚎/𝚅𝚒𝚍𝚎𝚘</b>
 
